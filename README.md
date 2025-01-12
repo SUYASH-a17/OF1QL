@@ -1,5 +1,5 @@
 # OF1QL
-Optimal F1 Qualifying Lap
+Optimal F1 Qualifying Lap analysis using ML
 
 # Dataset Used
 OpenF1.org
