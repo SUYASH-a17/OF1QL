@@ -9,10 +9,10 @@ OpenF1.org
 
 https://drive.google.com/drive/folders/1gZOMqi36fo6st9tPQyI_jEtnOE7qpbxu
 
-# Privacy-Preserving NLP through Federated Learning for Medical Text Analysis
+#
 
 ## Project Overview
-This project implements a privacy-preserving Natural Language Processing (NLP) system using Federated Learning for analyzing medical text data. The system is designed to process and analyze the COVID-19 Open Research Dataset (CORD-19) while maintaining data privacy and security.
+This project implements a . The system is designed to process and analyze the OpenF1 data.
 
 ## Table of Contents
 - [Features](#features)
