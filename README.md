@@ -1,8 +1,8 @@
 # OF1QL
 Optimal F1 Qualifying Lap analysis using ML
 
-# Competion
-## Nosu AI Hackathon on Devpost
+# Hackathon
+Nosu AI Hackathon on Devpost
 
 # Dataset Used
 OpenF1.org
