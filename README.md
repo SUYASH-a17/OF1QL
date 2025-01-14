@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1gZOMqi36fo6st9tPQyI_jEtnOE7qpbxu
 #
 
 ## Project Overview
-This project implements a . The system is designed to process and analyze the OpenF1 data.
+This project analyzes the F1 qualifying data and implements an optimal line. The system is designed to process and analyze the OpenF1 data.
 
 ## Table of Contents
 - [Features](#features)
